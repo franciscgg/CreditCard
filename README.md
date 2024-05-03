@@ -22,6 +22,10 @@ Este é um sistema de cartão de crédito desenvolvido em Java. Aqui estão as p
 - Solicita descrição e valor das compras até que o usuário decida sair.
 - Após as compras, exibe as compras realizadas e o saldo do cartão.
 
+## 📸 Captura de Tela
+![image](https://github.com/franciscgg/CreditCard/assets/113110382/a0ed6389-972f-433a-bd40-a91aebe791c7)
+
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
